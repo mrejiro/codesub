@@ -1,6 +1,6 @@
 # interviewreview
 A chunk for a recruitment portal 
-It has these API
+It has the following APIs:
 Login
 Fetch rota
 Create employee
